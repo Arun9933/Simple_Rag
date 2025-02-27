@@ -4,5 +4,5 @@ langchain-community
 langchain-groq
 sentence-transformers
 faiss-cpu
-PyPDF2
+pypdf
 docx2txt
